@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eduardo Vieira</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EduVieira131&color=blueviolet" alt="Profile views" /> </p>
 
-<!--
-**EduVieira131/EduVieira131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudando *HTML, CSS e JavaScript* na @rocketseat 📖
+- **Apaixonado** por programação 💜
+- *Curiosidade sobre mim:* Extremamente interessado em assuntos relacionados a psicologia e análise comportamental 🧠
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=blueviolet)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=blueviolet)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=blueviolet)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=blueviolet)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=blueviolet)&nbsp;
+
+![Snake animation](https://github.com/EduVieira131/EduVieira131/blob/output/github-contribution-grid-snake.svg)
