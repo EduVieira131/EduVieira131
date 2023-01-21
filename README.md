@@ -1,7 +1,7 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eduardo Vieira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EduVieira131&color=blueviolet" alt="Profile views" /> </p>
 
-- Estudando *HTML, CSS e JavaScript* na @rocketseat 📖
+- Estudando *HTML, CSS e JavaScript* na @Rocketseat 📖
 - **Apaixonado** por programação 💜
 - *Curiosidade sobre mim:* Extremamente interessado em assuntos relacionados a psicologia e análise comportamental 🧠
 
