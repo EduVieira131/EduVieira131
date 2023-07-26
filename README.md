@@ -18,4 +18,3 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=blueviolet)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=blueviolet)&nbsp;
 
-![Snake animation](https://github.com/EduVieira131/EduVieira131/blob/output/github-contribution-grid-snake.svg)
